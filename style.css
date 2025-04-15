@@ -1,16 +1,12 @@
-body {
-  background-color: #f0f0f0;
-  font-family: Arial, sans-serif;
-  color: #333;
-  padding: 20px;
-}
-
-h1 {
-  color: #007bff;
-  text-align: center;
-}
-
-p {
-  font-size: 18px;
-  text-align: center;
-}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Meu Card HTML</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Meu primeiro site</h1>
+  <p>Agora com estilo usando CSS 😎</p>
+</body>
+</html>
